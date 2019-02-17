@@ -1,15 +1,15 @@
 enable : true
 heading : About
-headingSpan : Us
+headingSpan : Leroy
 aboutItem : 
-- icon : tf-tools
-  title : We're Creative
+- icon : tf-ion-android-bulb
+  title : Innovative
   content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
 
 - icon : tf-strategy
-  title : We're Professional
+  title : Professional
   content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
 
-- icon : tf-anchor2
-  title : We're Genius
+- icon : tf-ion-asterisk
+  title : Geek
   content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
