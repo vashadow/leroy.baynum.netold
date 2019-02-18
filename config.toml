@@ -60,7 +60,7 @@ custom_css = ["css/custom.css"]
     icon = "tf-ion-social-github"
     heroLogo = "images/icon cloud.png"
     heading = "EXPERIENCE THE NEW REALITY"
-    content= "There is currently a fundamental change happening to the industry and the way we deploy and mange applications and websites. If your not ready for it your systems and applications will quickly be left behind. Have you moved away from the monolithic server build out mindset? Is your application or website running SSL? Is your application or website running in a containerized cluster? Is your application or website running serverless? Does your application or website deployment span data centers and systems from all over the world? Do you know what Kubernetes is? If you anwsered NO to any or all of these questions, you are already falling way behind."
+    content= "There is currently a fundamental change happening to the industry and the way we deploy and mange applications and websites. If your not ready for it your systems and services will quickly be left behind. Have you moved away from the monolithic server build out mindset? Is your application or website running in a POD? Is your application or website running in a containerized cluster? Is your application or website running serverless? Does your application or website deployment span data centers and systems all over the world? Do you know what Kubernetes is? If you anwsered NO to any or all of these questions, you are already falling way behind."
     btn = true
     btnText="More About Leroy A. Baynum Jr."
     btnURL="#about"
@@ -68,10 +68,10 @@ custom_css = ["css/custom.css"]
     # call to action
     [params.cta]
     enable = true
-    title = "Great Design & Incredible Features"
-    content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
-    btnURL = "#"
-    btnText = "Start a project with us"
+    title = "A truly great person with incredible knowledge that is fantastic to work with!"
+    content = "- Scott Recor, Application Adminitrator IV, Ferguson Enterprises Inc.  (2018)"
+    btnURL = "#contact-us"
+    btnText = "Contact Leroy Now"
 
     # counter
     [params.counter]

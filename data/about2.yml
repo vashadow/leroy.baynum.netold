@@ -1,13 +1,29 @@
 enable : true
 image : images/about/about-business-man.jpg
-title : We’re A Digital Design Agency.
+title : Leroy A. Baynum Jr.
 description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
 description2 : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
 aboutItem : 
   - icon : tf-circle-compass
-    title : SEO Optimized
+    title : Architect
     content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
     
-  - icon : tf-hotairballoon
-    title : Easy Customization
+  - icon : tf-ion-ios-people-outline
+    title : Manager
     content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+
+  - icon: tf-ion-ios-home-outline
+    title: Owner (CEO,COO,CIO,CTO)
+    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+
+  - icon: tf-ion-ios-monitor-outline
+    title: Administrator
+    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+
+  - icon: tf-ion-ios-gear-outline
+    title: Developer
+    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+
+  - icon: tf-ion-ios-bell-outline
+    title: Operations
+    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
